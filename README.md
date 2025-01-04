@@ -1,0 +1,3 @@
+# Uncommon Assembly Code Errors
+
+This repository contains examples of uncommon code errors that can occur in assembly language programming. These examples are designed to illustrate potential pitfalls and demonstrate how to avoid them.  The focus is on addressing modes, data types, stack operations, and system calls.  Each error is accompanied by a solution showing the correct implementation.  This repo is intended to be educational and help developers avoid subtle bugs.
